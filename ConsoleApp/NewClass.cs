@@ -8,5 +8,6 @@ namespace ConsoleApp
 {
     internal class NewClass
     {
+        int a = 8;
     }
 }
