@@ -8,6 +8,6 @@ namespace ConsoleApp
 {
     internal class NewClass
     {
-        int a = 99;
+        int a = 1;
     }
 }
